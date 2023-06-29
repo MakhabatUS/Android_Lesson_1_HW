@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Lesson_1_HW</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="signUp">Don\'t have an account? SIGN UP</string>
+    <string name="signUpPage">SIGN UP page</string>
+    <string name="welcome">Welcome to</string>
+</resources>
